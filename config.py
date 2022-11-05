@@ -1,8 +1,0 @@
-ACCES_USERS = ["Yama_Tsukami"]
-API_HASH = "28de3a8f4b68b388bfe47bf84d1b124b"
-API_ID = 19961504
-BOT_TOKEN = "5604529921:AAHS2u0P4V4hsyXpb1Scbaxv20Yeaws7e3k"
-PROXY = None
-ProxyCloud = None
-ROOT_PATH = "root/"
-SPLIT_FILE = 103809024
